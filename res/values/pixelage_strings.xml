@@ -342,4 +342,11 @@
     <string name="custom_timeout_summary_5mins">5 minutes</string>
     <string name="custom_timeout_summary_10mins">10 minutes</string>
     <string name="custom_timeout_summary_30mins">30 minutes</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fingerprint_vibration_category">Fingerprint vibration options</string>
+    <string name="fp_success_vibrate_title">Fingerprint authentication vibration</string>
+    <string name="fp_success_vibrate_summary">Vibrate when fingerprint authentication is successful</string>
+    <string name="fp_error_vibrate_title">Fingerprint error vibration</string>
+    <string name="fp_error_vibrate_summary">Vibrate when fingerprint authentication fails</string>
 </resources>
