@@ -369,4 +369,11 @@
 
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Additional sounds</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fingerprint_vibration_category">Fingerprint vibration options</string>
+    <string name="fp_success_vibrate_title">Fingerprint authentication vibration</string>
+    <string name="fp_success_vibrate_summary">Vibrate when fingerprint authentication is successful</string>
+    <string name="fp_error_vibrate_title">Fingerprint error vibration</string>
+    <string name="fp_error_vibrate_summary">Vibrate when fingerprint authentication fails</string>
 </resources>
