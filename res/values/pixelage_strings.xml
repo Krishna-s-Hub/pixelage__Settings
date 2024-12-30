@@ -396,4 +396,8 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+
+    <!-- Minimum auto brightness --> 
+    <string name="user_min_auto_brightness_title">Minimal auto brightness</string>
+    <string name="user_min_auto_brightness_summary">Caps auto brightness minimum value</string>
 </resources>
