@@ -38,6 +38,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.PixelageVersionDetailPreferenceController"/>
 
+    <!-- Pixelage build type -->
+    <Preference
+        android:key="pixelage_buildtype"
+        android:title="@string/pixelage_buildtype"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.PixelageBuildTypePreferenceController"/>
+
     <!-- Maintainer -->
     <Preference
         android:key="os_build_maintainer"

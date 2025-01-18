@@ -18,6 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Android version screen, build maintainer -->
     <string name="pixelage_version">Project Pixelage version</string>
+    <string name="pixelage_buildtype">Build type</string>
     <string name="build_maintainer">Maintainer</string>
 
     <!-- General -->
